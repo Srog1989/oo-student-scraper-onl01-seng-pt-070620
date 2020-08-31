@@ -17,7 +17,6 @@ class Student
      students_array.each do |student_hash| #each student is a hash
       Student.new(student_hash)
     end
-  end
 
   
 
